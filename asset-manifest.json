@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-table/static/css/main.782b36bf.css",
+    "main.js": "/crypto-table/static/js/main.c389ceaa.js",
+    "index.html": "/crypto-table/index.html",
+    "main.782b36bf.css.map": "/crypto-table/static/css/main.782b36bf.css.map",
+    "main.c389ceaa.js.map": "/crypto-table/static/js/main.c389ceaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.782b36bf.css",
+    "static/js/main.c389ceaa.js"
+  ]
+}
